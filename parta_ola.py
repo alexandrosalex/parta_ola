@@ -1,4 +1,3 @@
-#Alexandros Alexiou
 
 import random
 
